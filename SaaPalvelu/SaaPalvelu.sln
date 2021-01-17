@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaaPalvelu", "SaaPalvelu\SaaPalvelu.csproj", "{9DC1FB4B-0373-40EF-B3A4-D3A715B92DEE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaaPalveluTest", "SaaPalveluTest\SaaPalveluTest.csproj", "{6098EB75-612C-4F21-9CAA-4B5E242CB9EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DC1FB4B-0373-40EF-B3A4-D3A715B92DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC1FB4B-0373-40EF-B3A4-D3A715B92DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC1FB4B-0373-40EF-B3A4-D3A715B92DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC1FB4B-0373-40EF-B3A4-D3A715B92DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6098EB75-612C-4F21-9CAA-4B5E242CB9EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6098EB75-612C-4F21-9CAA-4B5E242CB9EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6098EB75-612C-4F21-9CAA-4B5E242CB9EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6098EB75-612C-4F21-9CAA-4B5E242CB9EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB9BD309-DEB9-45DB-9740-F85338EAEFD6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z14Y2IKJ1OMJqpdS+7Nrv/sqa5zSokWebsEzGlSiIE5+j2AnG8ClnEfmkYAVk+H7NJltUWFFqPgu8rONiGCVeA==",
+  "success": true,
+  "projectFilePath": "C:\\kurssit\\ohj1\\ht\\ohj1ht\\SaaPalvelu\\SaaPalvelu\\SaaPalvelu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\35845\\.nuget\\packages\\json.net\\1.0.23\\json.net.1.0.23.nupkg.sha512",
+    "C:\\Users\\35845\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
